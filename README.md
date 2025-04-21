@@ -13,7 +13,9 @@ The workflow is especially designed to be compatible with HPC environments throu
 ######## Installation
 Clone the repository:
 
-git clone https://github.com/AhmedFikry90/Molecular_Dynamics_Simulations.git
-cd Molecular_Dynamics_Simulations
-Ensure all required tools are installed on your system.
+1- git clone https://github.com/AhmedFikry90/Molecular_Dynamics_Simulations.git 
+
+2- cd Molecular_Dynamics_Simulations
+
+3- Ensure all required tools are installed on your system.
 
