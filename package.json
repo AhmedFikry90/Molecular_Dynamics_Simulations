@@ -1,0 +1,10 @@
+{
+  "name": "md-workflow",
+  "version": "1.0.0",
+  "description": "Bash workflow for Molecular Dynamics simulations",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bash md_workflow.sh"
+  }
+}
